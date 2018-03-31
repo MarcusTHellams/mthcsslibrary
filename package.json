@@ -8,7 +8,8 @@
     "build": "rollup -c"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/MarcusTHellams/mthcsslibrary"
   },
   "author": "Marcus T. Hellams",
   "license": "ISC",
