@@ -1,0 +1,8 @@
+.btn-marcus {
+    background-color: blue;
+    border-radius: 5px;
+    border: 1px solid black;
+    &.btn--modified{
+        background-color: green;
+    }
+}
