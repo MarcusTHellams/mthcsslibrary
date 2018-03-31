@@ -1,0 +1,24 @@
+{
+  "name": "mthcsslibrary",
+  "version": "1.0.0",
+  "description": "Roll up exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "author": "Marcus T. Hellams",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-env": "^1.6.1",
+    "rollup-plugin-babel": "^3.0.3",
+    "rollup-plugin-commonjs": "^9.1.0",
+    "rollup-plugin-json": "^2.3.0",
+    "rollup-plugin-node-resolve": "^3.3.0"
+  }
+}
