@@ -2,7 +2,7 @@
   "name": "mthcsslibrary",
   "version": "1.0.0",
   "description": "Roll up exercise",
-  "main": "index.js",
+  "main": "dist/mthCSS.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup -c",
