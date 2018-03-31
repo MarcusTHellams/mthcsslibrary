@@ -1,6 +1,6 @@
 {
   "name": "mthcsslibrary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Roll up exercise",
   "main": "dist/mthCSS.css",
   "scripts": {
